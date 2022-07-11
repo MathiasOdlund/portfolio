@@ -14,7 +14,7 @@
 		class="flex-1  pt-2 md:pt-0 sm:pt-2 w-full md:w-auto sm:w-full ml-0 md:ml-12 sm:ml-0"
 	>
 		<div
-			class="parent flex flex-col items-center md:items-start sm:items-center   "
+			class="parent flex flex-col items-center md:items-start sm:items-center mb-2  "
 		>
 			<a href="/" class=" normal-case text-[#ffffff] text-xl ">Mathias Ödlund</a
 			>

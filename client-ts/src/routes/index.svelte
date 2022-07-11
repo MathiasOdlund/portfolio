@@ -10,7 +10,7 @@
 </head>
 
 <section
-	class="info flex flex-col w-full md:w-7/12 sm:w-full p-12 md:p-0 sm:p-12  tracking-in-expand   mt-32 mx-auto"
+	class="info flex flex-col w-full md:w-7/12 sm:w-full px-12 md:p-0 sm:p-12  tracking-in-expand  mt-10 lg:mt-32  md:mt-20 sm:mt-4 mx-auto"
 >
 	<div
 		class="titles text-4xl md:text-4xl lg:text-5xl xl:text-7xl text-white mb-4"
@@ -23,6 +23,18 @@
 		Hey👋, i'm Mathias, a Norwegian based designer and computer engineer
 		specializing in full-stack web development.
 	</p>
+	<hr class="w-full md:w-2/3 lg:w-1/2	 tracking-wide mb-4 text-secondary" />
+	<div class=" flex mb-4 items-center gap-4 ">
+		<a href="https://github.com/Azzpr">
+			<img src="/icons/github.svg " class="h-12 cursor-pointer " alt="" />
+		</a>
+		<a href="https://www.linkedin.com">
+			<img src="/icons/linkedin.svg " class="h-12 cursor-pointer " alt="" />
+		</a>
+		<a href="https://www.fiverr.com/thomasbents">
+			<img src="/icons/fiverr.svg " class="h-12 cursor-pointer " alt="" />
+		</a>
+	</div>
 	<a href="/services">
 		<button class="btn btn-primary btn-outline w-full md:w-[200px] sm:w-full"
 			>Learn more</button

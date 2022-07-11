@@ -11,9 +11,9 @@
 <section
 	class="info  p-8 w-full md:w-8/12 lg:w-6/12 sm:w-full mx-auto mt-12 flex flex-col "
 >
-	<div class="flex flex-col w-full md:w-2/3 sm:w-full">
+	<div class="flex flex-col w-full md:w-2/3 sm:w-full mx-auto">
 		<h1
-			class="text-white font-bold text-4xl mb-2 flex self-center md:self-start sm:self-center"
+			class="text-white font-bold text-4xl mb-2 flex self-center md:self-center sm:self-center"
 		>
 			<p class="fakeh1">{h1}</p>
 			About me
@@ -37,13 +37,18 @@
 			I consult for companies looking to automate their repetitive work by
 			digitising the workflow with the latest and greatest technologies.
 		</p>
-
+		<p class="mt-4 self-center md:self-start sm:self-center">
+			<span class="underline cursor-pointer">View my resume</span>
+		</p>
 		<p class="fakep">{endp}</p>
-		<a href="/projects">
-			<button class="btn btn-primary btn-outline w-full md:w-[200px] sm:w-full"
-				>F3atured projects</button
-			>
-		</a>
+		<div class="flex  gap-2 w-full">
+			<a href="/projects ">
+				<button
+					class="btn btn-primary btn-outline  w-full md:w-[200px] sm:w-full"
+					>F3atured projects</button
+				>
+			</a>
+		</div>
 	</div>
 </section>
 

@@ -48,28 +48,36 @@
 	{#each projects as project}
 		<a href={project.demo}>
 			<div
-				class="container  w-11/12 mx-auto p-4 rounded-md bg-base-300 shadow-lg slide-tr"
+				class="container  w-full md:w-11/12 mx-auto p-4 rounded-md bg-base-300 shadow-lg slide-tr mt-4 md:mt-0 sm:mt-4"
 			>
-				<div class=" flex items-center  justify-center">
+				<div
+					class=" flex items-center  justify-center flex-col-reverse md:flex-row sm:flex-col-reverse"
+				>
 					<div class="avatar h-full ">
-						<div class="w-64 h-32 object-cover mr-4 ">
+						<div class="w-full md:h-32 object-cover mr-4 mt-4 ">
 							<img
-								class="w-full object-cover"
+								class="w-full object-cover rounded-md md:rounded-none sm:rounded-md"
 								src={project.image[0].url}
 								alt="image"
 							/>
 							{console.log(project.image.url)}
 						</div>
 					</div>
-					<div class="flex flex-col">
-						<h1 class="font-bold text-neutral title">{project.name}</h1>
+					<div
+						class="flex flex-col items-center md:items-start sm:items-center"
+					>
+						<h1
+							class="font-bold text-xl text-neutral title mb-3 md:mb-0 sm:mb-3"
+						>
+							{project.name}
+						</h1>
 						<p class="text-[#bfbfbf] info  tracking-wide">
 							{project.description}
 						</p>
 						<div class="tags w-full flex  mt-2">
 							{#each project.tags as tag}
 								<a
-									class="mr-3 outline-1 flex flex-row items-center justify-center px-1 outline text-primary"
+									class="mr-3 outline-1 flex flex-row items-center justify-center px-1 rounded-sm outline text-primary"
 								>
 									{tag}
 								</a>

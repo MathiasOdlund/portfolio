@@ -9,18 +9,24 @@
 	<title>Home - Mathias Ödlund</title>
 </head>
 
-<section class="info flex flex-col w-7/12  tracking-in-expand   mt-32 mx-auto">
-	<div class="titles text-7xl text-white mb-4">
+<section
+	class="info flex flex-col w-full md:w-7/12 sm:w-full p-12 md:p-0 sm:p-12  tracking-in-expand   mt-32 mx-auto"
+>
+	<div
+		class="titles text-4xl md:text-4xl lg:text-5xl xl:text-7xl text-white mb-4"
+	>
 		<h1>Full-stack web developer,</h1>
 		<h1>Automation engineer,</h1>
 		<h1>Cloud expert</h1>
 	</div>
-	<p class="w-1/2 tracking-wide mb-4">
+	<p class="w-full md:w-2/3 lg:w-1/2	 tracking-wide mb-4">
 		Hey👋, i'm Mathias, a Norwegian based designer and computer engineer
 		specializing in full-stack web development.
 	</p>
 	<a href="/services">
-		<button class="btn btn-primary btn-outline w-[200px]">Learn more</button>
+		<button class="btn btn-primary btn-outline w-full md:w-[200px] sm:w-full"
+			>Learn more</button
+		>
 	</a>
 </section>
 

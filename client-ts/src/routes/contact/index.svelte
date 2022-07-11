@@ -4,7 +4,7 @@
 
 <head><title>Contact</title></head>
 
-<div class="w-full h-screen mt-2 mx-auto tracking-in-expand justify-center">
+<div class="w-full h-screen mt-2 mx-auto tracking-in-expand justify-center p-4">
 	<ContactElement />
 </div>
 

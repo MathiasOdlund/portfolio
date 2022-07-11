@@ -28,7 +28,7 @@
 		</p>
 		<p class="mt-4 self-center md:self-start sm:self-center">
 			I have 4 years of experience working as a freelancer, developing &
-			consulting for startups, local companies and other clients. I am a a
+			consulting for startups, local companies and other clients. I am a
 			proficient full-stack web developer that makes web applications with
 			pretty much whatever tool fits best, so I can work with whatever Python,
 			TypeScript/JavaScript and PHP framework the project requires.

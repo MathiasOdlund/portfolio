@@ -30,8 +30,8 @@
 			I have 4 years of experience working as a freelancer, developing &
 			consulting for startups, local companies and other clients. I am a
 			proficient full-stack web developer that makes web applications with
-			pretty much whatever tool fits best, so I can work with whatever Python,
-			TypeScript/JavaScript and PHP framework the project requires.
+			pretty much whatever tool fits best. I can work with pretty much whatever
+			programming language / framework the project would require.
 		</p>
 		<p class="mt-4 self-center md:self-start sm:self-center">
 			I consult for companies looking to automate their repetitive work by

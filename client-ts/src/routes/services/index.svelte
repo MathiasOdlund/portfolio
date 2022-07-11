@@ -33,9 +33,11 @@
 		</p>
 
 		<p class="fakep">{endp}</p>
-		<button class="btn btn-primary btn-outline w-[200px]"
-			>F3atured projects</button
-		>
+		<a href="/projects">
+			<button class="btn btn-primary btn-outline w-[200px]"
+				>F3atured projects</button
+			>
+		</a>
 	</div>
 </section>
 

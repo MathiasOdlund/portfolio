@@ -6,7 +6,7 @@
 </script>
 
 <head>
-	<title>Home</title>
+	<title>Home - Mathias Ödlund</title>
 </head>
 
 <section class="info flex flex-col w-7/12  tracking-in-expand   mt-32 mx-auto">

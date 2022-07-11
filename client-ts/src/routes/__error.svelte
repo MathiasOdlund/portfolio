@@ -26,10 +26,7 @@
 					<h1 class="my-2 text-main font-bold text-2xl">
 						Looks like you've found the doorway to the great nothing
 					</h1>
-					<p class="my-2 text-main">
-						Sorry about that! Please visit our hompage to get where you need to
-						go.
-					</p>
+					<p class="my-2 text-main">Sorry about that! Please return home.</p>
 					<a href="/"><button class="btn btn-primary">Take me there!</button></a
 					>
 					<div class="alert alert-error shadow-lg w-3/4 mt-2 mb-2">

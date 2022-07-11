@@ -1,5 +1,5 @@
 <script>
-	import ContactElement from '../../components/contactElement/contactElement.svelte';
+	import ContactElement from '../../components/pages/contactElement/contactElement.svelte';
 </script>
 
 <head><title>Contact</title></head>

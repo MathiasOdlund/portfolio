@@ -23,23 +23,25 @@
 		<p class="fakep">{p}</p>
 		<p class="self-center md:self-start sm:self-center">
 			I am a Norwegian-based web developer and automation engineer with a
-			passion for solving hard n'old problems with new and modern cloud
-			solutions.
+			passion for solving complex problems with new and modern cloud solutions.
 		</p>
 		<p class="mt-4 self-center md:self-start sm:self-center">
-			I have 4 years of experience working as a freelancer, developing &
+			I have four years of experience working as a freelancer, developing &
 			consulting for startups, local companies and other clients. I am a
 			proficient full-stack web developer that makes web applications with
 			pretty much whatever tool fits best. I can work with pretty much whatever
-			programming language / framework the project would require.
+			programming language/framework the project would require.
 		</p>
 		<p class="mt-4 self-center md:self-start sm:self-center">
 			I consult for companies looking to automate their repetitive work by
 			digitising the workflow with the latest and greatest technologies.
 		</p>
-		<p class="mt-4 self-center md:self-start sm:self-center">
-			<span class="underline cursor-pointer">View my resume</span>
-		</p>
+		<a href="/MathiasOdlundCV.pdf" download>
+			<p class="mt-4 self-center md:self-start sm:self-center">
+				<span class="underline cursor-pointer">View my resume</span>
+			</p>
+		</a>
+
 		<p class="fakep">{endp}</p>
 		<div class="flex  gap-2 w-full">
 			<a href="/projects ">

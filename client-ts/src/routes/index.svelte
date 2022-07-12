@@ -20,7 +20,7 @@
 		<h1>Cloud expert</h1>
 	</div>
 	<p class="w-full md:w-2/3 lg:w-1/2	 tracking-wide mb-4">
-		Hey👋, i'm Mathias, a Norwegian based designer and computer engineer
+		Hey👋, I'm Mathias, a Norwegian based designer and computer engineer
 		specializing in full-stack web development.
 	</p>
 	<hr class="w-full md:w-2/3 lg:w-1/2	 tracking-wide mb-4 text-secondary" />

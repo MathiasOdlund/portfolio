@@ -7,6 +7,10 @@
 
 <head>
 	<title>Home - Mathias Ödlund</title>
+	<meta
+		name="description"
+		content="Hey👋, I'm Mathias, a Norwegian based designer and computer engineer specializing in full-stack web development."
+	/>
 </head>
 
 <section
@@ -28,14 +32,14 @@
 		<a href="https://github.com/Azzpr">
 			<img src="/icons/github.svg " class="h-12 cursor-pointer " alt="" />
 		</a>
-		<a href="https://www.linkedin.com">
+		<a href="https://www.linkedin.com/in/mathias-%C3%B6dlund-4a3a2b232">
 			<img src="/icons/linkedin.svg " class="h-12 cursor-pointer " alt="" />
 		</a>
 		<a href="https://www.fiverr.com/thomasbents">
 			<img src="/icons/fiverr.svg " class="h-12 cursor-pointer " alt="" />
 		</a>
 	</div>
-	<a href="/services">
+	<a href="/about">
 		<button class="btn btn-primary btn-outline w-full md:w-[200px] sm:w-full"
 			>Learn more</button
 		>

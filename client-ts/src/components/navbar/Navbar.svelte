@@ -24,7 +24,7 @@
 		class="flex pb-2 md:pb-0 sm:pb-2 w-full md:w-auto sm:w-full justify-around"
 	>
 		<ul class="menu menu-horizontal gap-2 p-0 capitalize">
-			<li><a href="/services">Services</a></li>
+			<li><a href="/about">About</a></li>
 
 			<li><a href="/projects">Projects</a></li>
 			<li>

@@ -37,6 +37,10 @@
 
 <head>
 	<title>Projects - Mathias Ödlund</title>
+	<meta
+		name="description"
+		content="Featured projects. A collection of featured freelancing projects that I have shipped recently"
+	/>
 </head>
 <section class="info  p-8 container mx-auto mt-12 flex flex-col gap-2 ">
 	<div class="w-11/12 mx-auto mb-8 `">

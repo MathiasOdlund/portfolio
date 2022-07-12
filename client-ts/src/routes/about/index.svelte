@@ -6,7 +6,11 @@
 </script>
 
 <head>
-	<title>Services - Mathias Ödlund</title>
+	<title>About - Mathias Ödlund</title>
+	<meta
+		name="description"
+		content="I am a Norwegian-based web developer and automation engineer with a passion for solving complex problems with new and modern cloud solutions."
+	/>
 </head>
 <section
 	class="info  p-8 w-full md:w-8/12 lg:w-6/12 sm:w-full mx-auto mt-12 flex flex-col "

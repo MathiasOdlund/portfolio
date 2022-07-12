@@ -48,7 +48,7 @@
 	{#each projects as project}
 		<a href={project.demo}>
 			<div
-				class="container   w-full h-[700px]  md:w-11/12 mx-auto p-4 rounded-md bg-base-300 shadow-lg slide-tr mt-4 md:mt-0 sm:mt-4"
+				class="container   w-full   md:w-11/12 mx-auto p-4 rounded-md bg-base-300 shadow-lg slide-tr mt-4 md:mt-0 sm:mt-4"
 			>
 				<div
 					class=" flex items-between  justify-center flex-col-reverse md:flex-row sm:flex-col-reverse"
@@ -75,7 +75,7 @@
 							{project.description}
 						</p>
 						<div
-							class="tags w-full flex items-center justify-center flex-wrap mt-2"
+							class="tags w-full flex items-center  justify-center md:justify-start sm:justify-center flex-wrap mt-2"
 						>
 							{#each project.tags as tag}
 								<a

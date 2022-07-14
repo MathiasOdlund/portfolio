@@ -2,7 +2,7 @@
 	import ContactElement from '../../components/pages/contactElement/contactElement.svelte';
 </script>
 
-<head><title>Contact</title></head>
+<head><title>Contact - Mathias Ödlund</title></head>
 
 <div class="w-full h-screen mt-2 mx-auto tracking-in-expand justify-center p-4">
 	<ContactElement />

@@ -9,7 +9,7 @@
 	<title>Home - Mathias Ödlund</title>
 	<meta
 		name="description"
-		content="Hey👋, I'm Mathias, a Norwegian based designer and computer engineer specializing in full-stack web development."
+		content="Hey👋, I'm Mathias, a Norwegian-based designer and software developer specializing in full-stack web development."
 	/>
 </head>
 
